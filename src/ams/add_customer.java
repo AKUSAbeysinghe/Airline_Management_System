@@ -1,4 +1,4 @@
-
+//custom details
 package ams;
 
 import javax.swing.*;
