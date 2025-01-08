@@ -66,11 +66,11 @@ public class home extends JFrame implements ActionListener{
             new FlightInfo();
        } else if (text.equals("Book Flight")) {
             new book_flight();
-        } else if (text.equals("Journey Details")) {
-            new JourneyDetails();
-        } else if (text.equals("Cancel Ticket")) {
-            new Cancel();
-        }
+        // } else if (text.equals("Journey Details")) {
+        //     new JourneyDetails();
+        // } else if (text.equals("Cancel Ticket")) {
+        //     new Cancel();
+        // }
     }
     
     public static void main(String[] args) {
