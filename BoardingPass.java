@@ -16,7 +16,7 @@ public class BoardingPass extends JFrame implements ActionListener{
         getContentPane().setBackground(Color.WHITE);
         setLayout(null);
         
-        JLabel heading = new JLabel("air");
+        JLabel heading = new JLabel("CLOUD PORT");
         heading.setBounds(380, 10, 450, 35);
         heading.setFont(new Font("Tahoma", Font.PLAIN, 32));
         add(heading);
