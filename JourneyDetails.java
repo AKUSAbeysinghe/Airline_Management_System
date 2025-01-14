@@ -1,3 +1,5 @@
+//Flight Journey details
+
 package ams;
 
 import javax.swing.*;
