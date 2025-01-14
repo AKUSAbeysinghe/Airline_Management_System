@@ -1,4 +1,4 @@
-
+//customer details are adding 
 package ams;
 
 import javax.swing.*;
