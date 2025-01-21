@@ -5,7 +5,7 @@ This Airline Management System is a desktop application developed in Java using 
 
 Manage airline operations: flight scheduling, ticketing, cancellations, customer support, staff, and daily updates.
 
-Features
+Features: 
 
 - Flight Management: Manage flight details.
 - Passenger Management: Handle passenger records.
