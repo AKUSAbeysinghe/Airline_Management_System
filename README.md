@@ -17,6 +17,7 @@ Features:
 Technologies
 
 - Java, NetBeans, MySQL, JDBC
+  
 
 ![front_view](https://github.com/user-attachments/assets/42692785-7089-4e00-887f-8b2f837294e8)
 
